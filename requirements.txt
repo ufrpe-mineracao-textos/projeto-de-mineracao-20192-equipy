@@ -5,8 +5,10 @@ async-timeout==3.0.1
 attrs==19.1.0
 beautifulsoup4==4.8.0
 cchardet==2.1.4
+certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
+demoji==0.1.5
 elasticsearch==7.0.4
 fake-useragent==0.1.11
 geographiclib==1.49
@@ -22,6 +24,7 @@ pycparser==2.19
 PySocks==1.7.1
 python-dateutil==2.8.0
 pytz==2019.2
+requests==2.22.0
 schedule==0.6.0
 six==1.12.0
 soupsieve==1.9.3
